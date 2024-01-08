@@ -1,0 +1,3 @@
+What is the DOCTYPE Declaration in HTML?
+Ans.  With <!DOCTYPE html>: browser will render document in standard and latest versions of browsers and its presence make it easy for browser to render a page.
+Without <!DOCTYPE html>: Browser will render document in older version(quirks mode) of browser and its absence make it hard for browsers to render a page in proper way.
