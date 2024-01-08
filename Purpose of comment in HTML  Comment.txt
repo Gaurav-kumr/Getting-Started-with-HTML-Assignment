@@ -1,0 +1,1 @@
+Purpose of comment in HTML : Comment tag(<!--lorem-->) is used to stop html rendering of particular code. and basically used as a notes by editors/programmers/designers/seo.
