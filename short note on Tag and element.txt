@@ -1,0 +1,5 @@
+Write a short note on Tag and element with an example.
+
+example: <p>PW Skills is the <strong>best in the market</strong> as it <b>affordable</b> and maintains quality with affordability.</p>
+
+explanation: The <p> in above element is opening paragraph tag  and </p> closing paragraph tag. and that as a whole makes paragraph element.
